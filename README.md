@@ -1,3 +1,4 @@
-#E-learning
-A simple e-leraning project (front-end),
-Yet to be completed.
+**E-learning**
+A simple front-end e-leraning project.
+
+*Yet to be completed.
